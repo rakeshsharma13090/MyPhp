@@ -1,12 +1,10 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <body>
 
-<h1>My first PHP page</h1>
+<h1>Developer News</h1>
 
-<?php
-echo "Hello World!";
-?>
+<?php echo "The Best PHP Examples"; ?>
 
 </body>
 </html> 
